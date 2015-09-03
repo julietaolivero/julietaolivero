@@ -37,7 +37,7 @@
 		width: 25%;
 		margin-bottom: 2em !important;
 	}
-	
+
 	.button
 	{
 		width: 100%;
@@ -51,13 +51,13 @@
 		{
 			display: none;
 		}
-	
+
 		.button-icon:after
 		{
 			position: absolute;
 			left: 1em;
 		}
-		
+
 	.box-excerpt
 	{
 	}
@@ -168,7 +168,7 @@
 		font-size: 0.95em;
 		letter-spacing: 0.075em;
 	}
-	
+
 		.mobileUI-site-nav-link:first-child
 		{
 			border-top: 0;
@@ -186,7 +186,7 @@
 	#header-wrapper
 	{
 	}
-	
+
 		.homepage #header-wrapper
 		{
 			position: relative;
@@ -196,7 +196,7 @@
 			margin-bottom: -44px;
 			padding-bottom: 2%;
 		}
-	
+
 	#main-wrapper
 	{
 	}
@@ -219,7 +219,7 @@
 		{
 			padding: 3em 20px 1em 20px;
 		}
-	
+
 	#footer-wrapper
 	{
 		padding: 4em 20px 2em 20px;
@@ -256,10 +256,13 @@
 		{
 			font-size: 18pt !important;
 		}
-		
+
 		#banner h2 br
 		{
 			display: none;
+		}
+		#banner img{
+			width: 20em;
 		}
 
 /*********************************************************************************/
