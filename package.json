@@ -1,0 +1,22 @@
+{
+  "name": "paginajulieta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julietaolivero/julietaolivero.github.io.git"
+  },
+  "author": "Serafin Fernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julietaolivero/julietaolivero.github.io/issues"
+  },
+  "homepage": "https://github.com/julietaolivero/julietaolivero.github.io#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
